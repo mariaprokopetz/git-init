@@ -1,0 +1,32 @@
+body {
+  font-family: "Helvetica Neue";
+}
+
+div, section, ul {
+  border: 1px solid black;
+}
+
+li {
+  list-style-type: none;
+  display: inline;
+}
+
+header {
+  background-color: black;
+}
+
+.navbar-links {
+  color: white;
+  padding: 10px;
+}
+
+#main-content {
+  background-image: url("http://images.apple.com/v/home/cx/images/gallery/iphone_xlarge.jpg");
+  background-size: contain;
+  height: 450px;
+  color: white;
+  background-position: center;
+  background-color: black;
+  background-repeat: no-repeat;
+  text-align: center;
+}
